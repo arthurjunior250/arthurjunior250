@@ -37,9 +37,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours listening to songs every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/arthurjunior250)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)](https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/arthurjunior250)
+[![Twitter: arthurjunior250](https://img.shields.io/twitter/follow/arthurjunior250?style=social)](https://twitter.com/arthurjunior250)
+[![Linkedin: arthurjunior250](https://img.shields.io/badge/-arthurjunior250-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)](https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)
+[![GitHub arthurjunior250](https://img.shields.io/github/followers/arthurjunior250?label=follow&style=social)](https://github.com/arthurjunior250)
 
 
 
@@ -48,6 +48,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 <a href="https://github.com/arthurjunior250">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior250&theme=light&hide_langs_below=1" />
 </a>
