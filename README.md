@@ -33,12 +33,12 @@
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/arthurjunior250). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 - 💬 Ask me about Web Development or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @arthurjunior250](https://twitter.com/arthurjunior250) , [Youtube - @arthurjunior250](https://youtube.com/arthurjunior250)
+- 📫 How to reach me: [Twitter - @arthurjunior250](https://twitter.com/arthurjunior250) , [Youtube - @arthurjunior250](https://www.youtube.com/channel/UCYaW5tJrInABUs3MMNAzCFw)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours listening to songs every day.
 
 [![Twitter: arthurjunior250](https://img.shields.io/twitter/follow/arthurjunior250?style=social)](https://twitter.com/arthurjunior250)
-[![Linkedin: arthurjunior250](https://img.shields.io/badge/-arthurjunior250-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)](https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)
+[![Linkedin: arthurjunior250](https://img.shields.io/badge/-arthurjunior250-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)](https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/)
 [![GitHub arthurjunior250](https://img.shields.io/github/followers/arthurjunior250?label=follow&style=social)](https://github.com/arthurjunior250)
 
 
