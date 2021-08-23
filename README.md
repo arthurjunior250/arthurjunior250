@@ -5,7 +5,7 @@
 <a href="https://twitter.com/arthurjunior250">
   <img align="left" alt="arthurjunior's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/">
+<a href="https://www.linkedin.com/in/dusabimana-arthur-junior-a8189820a/">
   <img align="left" alt="arthurjunior's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/arthurjunior250">
@@ -17,10 +17,10 @@
 <a href="https://instagram.com/arthurjunior250/">
   <img align="left" alt="arthurjunior's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/marcus arthur junior/">
+<a href="https://www.facebook.com/ARTHURJUNIOR250/">
   <img align="left" alt="arthurjunior's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/arthurjunior250/">
+<a href="https://www.youtube.com/channel/UCYaW5tJrInABUs3MMNAzCFw/">
   <img align="left" alt="arthurjunior's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
